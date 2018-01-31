@@ -1,3 +1,5 @@
+Update: You probably rather want to use https://github.com/isstac/kelinci than this!
+
 This repo shows how to fuzz Java based applications with the American Fuzzy Lop (AFL) fuzzer via GCJ. GCJ is hard to work with.
 
 ## HOWTO:
